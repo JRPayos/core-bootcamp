@@ -1,0 +1,12 @@
+{
+    "name": "JolliToken",
+    "description": "Description",
+    "symbol": "JBT",
+    "image": "https://i.imgur.com/aTvMHc4.png",
+    "attributes": [
+        {
+            "trait_type": "Restaurant",
+            "value": "Fastfood"
+        }
+    ]
+}

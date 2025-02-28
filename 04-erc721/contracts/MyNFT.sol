@@ -16,7 +16,7 @@ contract MyNFT is ERC721URIStorage {
         _setTokenURI(
             //Token URI
             tokenId,
-            "https://imgur.com/a/2KaoNCh"
+            "https://raw.githubusercontent.com/JRPayos/core-bootcamp/refs/heads/main/04-erc721/metadata.json"
         );
         tokenId++;
     }
